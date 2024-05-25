@@ -1,6 +1,5 @@
 const fs = require('fs');
 const path = require('path');
-const sqlite3 = require('sqlite3').verbose();
 const icloudSharedAlbum = require('icloud-shared-album');
 const https = require('https');
 
